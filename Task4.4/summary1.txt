@@ -1,0 +1,18 @@
+Rows: 6
+Columns: 4 (name, age, city, score)
+
+[name] text - 6 values, 6 unique
+
+[age] numeric
+    count : 6
+    min   : 21
+    max   : 25
+    mean  : 22.83
+
+[city] text - 6 values, 3 unique
+
+[score] numeric
+    count : 6
+    min   : 71
+    max   : 93
+    mean  : 84.33

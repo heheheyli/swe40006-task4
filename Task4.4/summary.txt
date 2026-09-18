@@ -1,0 +1,52 @@
+Rows: 35040
+Columns: 11 (﻿date, Usage_kWh, Lagging_Current_Reactive.Power_kVarh, Leading_Current_Reactive_Power_kVarh, CO2(tCO2), Lagging_Current_Power_Factor, Leading_Current_Power_Factor, NSM, WeekStatus, Day_of_week, Load_Type)
+
+[﻿date] text - 35040 values, 35040 unique
+
+[Usage_kWh] numeric
+    count : 35040
+    min   : 0
+    max   : 157.18
+    mean  : 27.39
+
+[Lagging_Current_Reactive.Power_kVarh] numeric
+    count : 35040
+    min   : 0
+    max   : 96.91
+    mean  : 13.04
+
+[Leading_Current_Reactive_Power_kVarh] numeric
+    count : 35040
+    min   : 0
+    max   : 27.76
+    mean  : 3.87
+
+[CO2(tCO2)] numeric
+    count : 35040
+    min   : 0
+    max   : 0.07
+    mean  : 0.01
+
+[Lagging_Current_Power_Factor] numeric
+    count : 35040
+    min   : 0
+    max   : 100
+    mean  : 80.58
+
+[Leading_Current_Power_Factor] numeric
+    count : 35040
+    min   : 0
+    max   : 100
+    mean  : 84.37
+
+[NSM] numeric
+    count : 35040
+    min   : 0
+    max   : 85500
+    mean  : 42750.00
+
+[WeekStatus] text - 35040 values, 2 unique
+
+[Day_of_week] text - 35040 values, 7 unique
+
+[Load_Type] text - 35040 values, 3 unique
